@@ -12,4 +12,4 @@ A simple task management system allowing users to add tasks, view tasks, and gen
 **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/gizem-o/finalCapstone
